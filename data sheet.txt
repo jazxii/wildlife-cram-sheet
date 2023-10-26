@@ -1,0 +1,957 @@
+-- Fitness is environment-specific.
+Options:
+1. True
+2. False
+;; False
+
+-- Ecology is the scientific study of interactions among organisms and their ___.
+Options:
+1. habitat
+2. niche
+3. environment
+4. population
+;; environment
+
+-- "Enquiry into plants" is a book written by
+Options:
+1. Theophrastus
+2. Linnaeus
+3. Malthus
+4. Humboldt
+;; Theophrastus
+
+-- Which of these is not a kind of selection
+Options:
+1. directional
+2. stochastic
+3. disruptive
+4. stabilising
+;; stochastic
+
+-- Ecology is the scientific study of _______ that determine the distribution and abundance of organisms.
+Options:
+1. statics
+2. interactions
+3. dynamics
+4. habitat
+;; interactions
+
+-- Which of these is not a step in natural selection?
+Options:
+1. variation
+2. underpopulation
+3. struggle for existence
+4. survival of the fittest
+;; underpopulation
+
+-- Which of these is not a characteristic of fitness?
+Options:
+1. Fitness is environment-specific.
+2. Fitness is species-specific.
+3. Fitness works on traits such as size and speed.
+4. Fitness should be measured across several generations.
+;; Fitness works on traits such as size and speed
+
+-- In the Greek word root of Ecology, Oikos refers to
+Options:
+1. household
+2. preservation
+3. environment
+4. study
+;; household
+
+-- In the Greek word root of Ecology, logos refers to
+Options:
+1. household
+2. preservation
+3. environment
+4. study
+;; study
+
+-- Who amongst these is considered the father of Biogeography?
+Options:
+1. Theophrastus
+2. Linnaeus
+3. Malthus
+4. Humboldt
+;; Humboldt
+
+-- For more diversity, the level of disturbance should be
+Options:
+1. less
+2. intermediate
+3. more
+4. none of these
+;; intermediate
+
+-- Hierarchy emerges almost inevitably through a wide variety of evolutionary processes, for the simple reason that hierarchical structures are _____.
+Options:
+1. perfect
+2. imperfect
+3. stable
+4. unstable
+;; stable
+
+-- "Groups of actually or potentially interbreeding natural populations which are reproductively isolated from other such groups" is a definition of
+Options:
+1. cells
+2. species
+3. ecosystems
+4. biomes
+;; species
+
+-- The emergent principle can be stated as
+Options:
+1. whole = sum of parts
+2. whole < sum of parts
+3. whole > sum of parts
+4. none of these
+;; whole > sum of parts
+
+-- There is more biodiversity in areas with
+Options:
+1. less competition, less predation
+2. less competition, more predation
+3. more competition, more predation
+4. more competition, less predation
+;; more competition, more predation
+
+-- The mitochondrion is a/an
+Options:
+1. subcellular organelle
+2. cell
+3. tissue
+4. organ
+;; subcellular organelle
+
+-- "The diversity that exists among different geographies" is
+Options:
+1. alpha biodiversity
+2. beta biodiversity
+3. gamma biodiversity
+4. delta biodiversity
+;; gamma biodiversity
+
+-- "The diversity that exists within an ecosystem" is
+Options:
+1. alpha biodiversity
+2. beta biodiversity
+3. gamma biodiversity
+4. delta biodiversity
+;; alpha biodiversity
+
+-- The hierarchical system was given by
+Options:
+1. Simon
+2. Watson
+3. Hutchinson
+4. Humboldt
+;; Simon
+
+-- The laboratory approach to ecology uses
+Options:
+1. equations
+2. models
+3. observations
+4. experiments
+;; experiments
+
+-- I observe a bird take a tick out of another bird's head and eat it. In the social context, this behavior is known as
+Options:
+1. tick hunting
+2. auto grooming
+3. allo grooming
+4. foraging
+;; allo grooming
+
+-- The scientific study of animal behavior is known as
+Options:
+1. behaviorism
+2. ecology
+3. ethology
+4. prey-predator dynamics
+;; ethology
+
+-- Trampling of grass due to the movement of animals is an example of
+Options:
+1. mutualism
+2. amensalism
+3. commensalism
+4. protocooperation
+;; amensalism
+
+-- Birds on a giraffe is an example of
+Options:
+1. colony
+2. commensalism
+3. protocooperation
+4. allelopathy
+;; protocooperation
+
+-- I observe a monkey take a tick out of another monkey's head and eat it. In the social context, this behavior would be called
+Options:
+1. tick hunting
+2. auto grooming
+3. allo grooming
+4. foraging
+;; allo grooming
+
+-- Hamilton's rule can be stated as
+Options:
+1. rB < C
+2. rB > C
+3. rB = C
+4. rB + C = 0
+;; rB > C
+
+-- Egrets with buffaloes are an example of
+Options:
+1. colony
+2. commensalism
+3. protocooperation
+4. allelopathy
+;; commensalism
+
+-- The interaction between exotic shrubs and trees through the action of seed predators is an example of
+Options:
+1. infraspecific competition
+2. apparent competition
+3. disguised competition
+4. harmonious competition
+;; apparent competition
+
+-- Harmonious interaction occurs where
+Options:
+1. at least one participant is benefited
+2. at least one participant is unharmed
+3. both participants are benefited
+4. both participants are unharmed
+;; both participants are unharmed
+
+-- An inventory of behaviors exhibited by an animal during a behavior exercise is called
+Options:
+1. ecogram
+2. ethogram
+3. behaviourogram
+4. animalogram
+;; ethogram
+
+-- Tree --> frugivorous birds --> hawk represents
+Options:
+1. upright pyramid of numbers
+2. inverted pyramid of numbers
+3. spindle pyramid of numbers
+4. dumbbell pyramid of numbers
+;; spindle pyramid of numbers
+
+-- If we all became vegetarians, we'll be able to support our large populations. This can be explained through
+Options:
+1. 10% rule
+2. 1% rule
+3. trophic cascade
+4. biodiversity
+;; 10% rule
+
+-- Consider the food chain: grass --> grasshopper --> frog --> snake --> hawk. As we move up the food chain,
+Options:
+1. available energy decreases
+2. available energy increases
+3. available energy remains the same
+4. available energy is zero everywhere
+;; available energy decreases
+
+-- Glacial lakes are typical examples of
+Options:
+1. eutrophic lakes
+2. hypereutrophic lakes
+3. oligotrophic lakes
+4. mesotrophic lakes
+;; oligotrophic lakes
+
+-- Trees --> birds --> parasites --> hyperparasites represents
+Options:
+1. upright pyramid of numbers
+2. inverted pyramid of numbers
+3. spindle pyramid of numbers
+4. dumbbell pyramid of numbers
+;; inverted pyramid of numbers
+
+-- Consider the food chain: grass --> grasshopper --> frog --> snake --> hawk. In the food chain,
+Options:
+1. frog is a producer
+2. frog is a consumer and carnivore
+3. frog is a consumer and herbivore
+4. frog is a decomposer
+;; frog is a consumer and carnivore
+
+-- At the compensation point
+Options:
+1. photosynthesis = respiration
+2. photosynthesis < respiration
+3. photosynthesis > respiration
+4. photosynthesis = 0
+;; photosynthesis = respiration
+
+-- Consider the food chain: grass --> grasshopper --> frog --> snake --> hawk. In this food chain,
+Options:
+1. more number of hawks than grasshopper can be supported
+2. more number of grasshoppers than hawks can be supported
+3. equal number of hawks than grasshopper can be supported
+4. none of these
+;; more number of grasshoppers than hawks can be supported
+
+-- Consider the food chain: grass --> grasshopper --> frog --> snake --> hawk. In this food chain,
+Options:
+1. hawk is a producer
+2. hawk is a consumer and carnivore
+3. hawk is a consumer and herbivore
+4. hawk is a decomposer
+;; hawk is a consumer and carnivore
+
+-- Net primary productivity is given by
+Options:
+1. APAR X LUE
+2. APAR + LUE
+3. APAR - LUE
+4. APAR / LUE
+;; APAR X LUE
+
+-- Which of these is not a measure of absolute population density?
+Options:
+1. total count
+2. pelt count
+3. capture-recapture method
+4. removal method
+;; pelt count
+
+-- The juvenile mortality rate is the annual number of deaths of juveniles per
+Options:
+1. 100 births
+2. 1000 births
+3. 100 live births
+4. 1000 live births
+;; 1000 live births
+
+-- _____ is how close the measured values are to the correct values.
+Options:
+1. accuracy
+2. precision
+3. bias
+4. variance
+;; accuracy
+
+-- _____ employs a simple rule of selecting every kth unit starting with a number chosen at random from 1 to k as the random start.
+Options:
+1. simple random sampling
+2. systematic sampling
+3. stratified sampling
+4. multistage sampling
+;; systematic sampling
+
+-- Cover board surveys are typically used for sampling
+Options:
+1. herpetofauna
+2. fishes
+3. large mammals
+4. carnivores
+;; herpetofauna
+
+-- The minimum replacement level fertility for a population to grow should be greater than
+Options:
+1. 1
+2. 2
+3. 3
+4. 4
+;; 2
+
+-- The logistic growth curve, when plotted, appears
+Options:
+1. I-shaped
+2. J-shaped
+3. S-shaped
+4. O-shaped
+;; S-shaped
+
+-- Pan traps are used for sampling
+Options:
+1. bees
+2. butterflies
+3. non-pollinator insects
+4. pollinator insects
+;; pollinator insects
+
+-- A sampling procedure such that each possible combination of sampling units out of the population has the same chance of being selected is referred to as
+Options:
+1. simple random sampling
+2. systematic sampling
+3. stratified sampling
+4. multistage sampling
+;; simple random sampling
+
+-- Which of these is true?
+Options:
+1. physiological longevity > ecological longevity
+2. physiological longevity = ecological longevity
+3. physiological longevity < ecological longevity
+4. a or b
+;; a or b
+
+-- Importance value varies from
+Options:
+1. 0 to 10
+2. 0 to 50
+3. 0 to 100
+4. 0 to 300
+;; 0 to 300
+
+-- A species found most frequently in a particular community but also present occasionally in others is called
+Options:
+1. accidental species
+2. indifferent species
+3. selective species
+4. exclusive species
+;; selective species
+
+-- Which of these depicts correctly the lithosere primary succession?
+Options:
+1. rock --> crustose lichen --> foliose lichen --> moss --> herbaceous stage --> shrub --> woodland --> climax
+2. rock --> foliose lichen --> crustose lichen --> moss --> herbaceous stage --> shrub --> woodland --> climax
+3. moss --> crustose lichen --> foliose lichen --> rock --> herbaceous stage --> shrub --> woodland --> climax
+4. rock --> crustose lichen --> foliose lichen --> shrub --> herbaceous stage --> moss --> woodland --> climax
+;; rock --> crustose lichen --> foliose lichen --> moss --> herbaceous stage --> shrub --> woodland --> climax
+
+-- Importance value can be written as
+Options:
+1. relative density + relative frequency X relative dominance
+2. relative density X relative frequency + relative dominance
+3. relative density + relative frequency + relative dominance
+4. relative density X relative frequency X relative dominance
+;; relative density + relative frequency + relative dominance
+
+-- Lithosere is an example of
+Options:
+1. hydrosere
+2. xerosere
+3. psammosere
+4. halosere
+;; xerosere
+
+-- The climax near Tindi village is being controlled by disturbance by cattle. This is an example of
+Options:
+1. climatic climax
+2. edaphic climax
+3. disclimax
+4. catastrophic climax
+;; disclimax
+
+-- A climax caused by wildfires is an example of
+Options:
+1. climatic climax
+2. edaphic climax
+3. disclimax
+4. catastrophic climax
+;; catastrophic climax
+
+-- Which of these is correct?
+Options:
+1. fundamental niche > realised niche
+2. fundamental niche = realised niche
+3. fundamental niche < realised niche
+4. a or b
+;; a or b
+
+-- When compared to generalist species, specialist species have
+Options:
+1. narrower niche
+2. broader niche
+3. same size niche
+4. none of these
+;; narrower niche
+
+-- Which of these is not a characteristic of pioneer species
+Options:
+1. ability to grow on bare rocks
+2. ability to tolerate extreme temperatures
+3. large size
+4. short life span
+;; large size
+
+-- Scarcity of food is a
+Options:
+1. chemical factor
+2. demographic factor
+3. push factor
+4. pull factor
+;; push factor
+
+-- Good climate is a
+Options:
+1. chemical factor
+2. demographic factor
+3. push factor
+4. pull factor
+;; pull factor
+
+-- The movement of individuals away from their place of birth or hatching or seed production into a new habitat or area to survive and reproduce is called
+Options:
+1. translocation
+2. migration
+3. dispersal
+4. drifting
+;; dispersal
+
+-- "The geographical distribution of a species will be controlled by that environmental factor for which the organism has the narrowest range of tolerance." This is the statement for
+Options:
+1. Liebig’s law of the minimum
+2. Liebig’s law of the maximum
+3. Shelford’s law of tolerance
+4. Shelford’s law of intolerance
+;; Shelford’s law of tolerance
+
+-- "Quick movement over large distances, often across unsuitable terrain" is a description of
+Options:
+1. diffusion
+2. secular dispersal
+3. jump dispersal
+4. drifting
+;; jump dispersal
+
+-- The regular, seasonal movement of animals, often along fixed routes is called
+Options:
+1. translocation
+2. migration
+3. dispersal
+4. drifting
+;; migration
+
+-- The movement of lions across the Gir landscape is an example of
+Options:
+1. diffusion
+2. secular dispersal
+3. jump dispersal
+4. drifting
+;; diffusion
+
+-- Which of these is not a physical factor of habitat?
+Options:
+1. soil
+2. moisture
+3. predators
+4. temperature
+;; predators
+
+-- Transplantation experiments are used to find
+Options:
+1. potential range
+2. effective range
+3. actual range
+4. economic range
+;; potential range
+
+-- I tried growing vegetables under my teak plantation, but the vegetable plants died out. I should be concerned about
+Options:
+1. autophagy
+2. allelophagy
+3. autopathy
+4. allelopathy
+;; allelopathy
+
+-- Captive breeding is an example of
+Options:
+1. in-situ conservation
+2. ex-situ conservation
+3. in-situ preservation
+4. ex-situ preservation
+;; ex-situ conservation
+
+-- The "subset of physical and biotic environmental factors that permit an animal (or plant) or survive and reproduce" is the definition of
+Options:
+1. habitat
+2. ecosystem
+3. biome
+4. biosphere
+;; habitat
+
+-- We prefer those areas for the creation of a conservation reserve where the level of threat is
+Options:
+1. very high
+2. medium
+3. very low
+4. non-existent
+;; medium
+
+-- Which of these is a deterministic factor
+Options:
+1. environmental variation
+2. forest fire
+3. death rate
+4. diseases
+;; death rate
+
+-- The acronym HIPPO does not include
+Options:
+1. habitat loss
+2. habitat enhancement
+3. invasive species
+4. human overpopulation
+;; habitat enhancement
+
+-- Which of these correctly represents the process of habitat fragmentation and loss
+Options:
+1. original forest --> dissection --> perforation --> fragmentation --> attrition
+2. original forest --> dissection --> attrition --> fragmentation --> perforation
+3. original forest --> dissection --> perforation --> attrition --> fragmentation
+4. original forest --> dissection --> fragmentation --> perforation --> attrition
+;; original forest --> dissection --> perforation --> fragmentation --> attrition
+
+-- The acronym HIPPO does not include
+Options:
+1. habitat loss
+2. invasive species
+3. pollination
+4. pollution
+;; pollination
+
+-- Which of these is a stochastic factor
+Options:
+1. birth rate
+2. death rate
+3. population structures
+4. environmental fluctuations
+;; environmental fluctuations
+
+-- According to Leopold, which of these in not a tool of habitat management
+Options:
+1. fire
+2. gun
+3. cattle
+4. sickle
+;; sickle
+
+-- Zoo is an example of
+Options:
+1. in-situ conservation
+2. ex-situ conservation
+3. in-situ preservation
+4. ex-situ preservation
+;; ex-situ conservation
+
+-- Which of these is a preventive check according to Malthus?
+Options:
+1. foresight
+2. vice
+3. misery
+4. flood
+;; foresight
+
+-- Which of these is not a pillar of sustainability?
+Options:
+1. environmental sustainability
+2. economic sustainability
+3. trans-boundary sustainability
+4. social sustainability
+;; trans-boundary sustainability
+
+-- ____ is to identify which potential impacts are relevant to assess (fill in the blank)
+Options:
+1. screening
+2. scoping
+3. reporting
+4. review
+;; scoping
+
+-- Which of these is a positive check according to Malthus?
+Options:
+1. late marriage
+2. war
+3. celibacy
+4. moral restraint
+;; war
+
+-- Which of these is a pillar of sustainability?
+Options:
+1. social sustainability
+2. industrial sustainability
+3. agricultural sustainability
+4. trans-boundary sustainability
+;; social sustainability
+
+-- The demographic transition sees a society move from
+Options:
+1. high birth rate, low birth rate to low birth rate, low death rate
+2. low birth rate, high death rate to low birth rate, low death rate
+3. high birth rate, high death rate to low birth rate, low death rate
+4. high birth rate, high death rate to low birth rate, high death rate
+;; high birth rate, high death rate to low birth rate, low death rate
+
+-- The book "An Essay on the Principle of Population" was written by
+Options:
+1. Darwin
+2. Malthus
+3. Spencer
+4. Owens
+;; Malthus
+
+-- The quantum of human impacts is given by
+Options:
+1. I = P X A X T
+2. I = P + A + T
+3. I = P + A - T
+4. I = P - (A + T)
+;; I = P X A X T
+
+-- ____ determines which projects or development require a full or partial impact assessment study (fill in the blank)
+Options:
+1. screening
+2. scoping
+3. reporting
+4. review
+;; screening
+
+-- According to the Malthusian model
+Options:
+1. population grows in geometric progression, food supply increases in arithmetic progression
+2. population grows in geometric progression, food supply increases in geometric progression
+3. population grows in arithmetic progression, food supply increases in arithmetic progression
+4. population grows in arithmetic progression, food supply increases in geometric progression
+;; population grows in geometric progression, food supply increases in arithmetic progression
+
+-- Mesodebris in the context of plastic debris has fragments of size
+Options:
+1. >20mm
+2. 5-20mm
+3. <5mm
+4. <1mm
+;; 5-20mm
+
+-- The government came up with a regulation that incandescent bulbs be replaced by LED bulbs, so that electricity consumption and release of carbon dioxide from power plants is reduced. In the context change, such an action would be called
+Options:
+1. adaptation
+2. mitigation
+3. deceleration
+4. maladaptation
+;; mitigation
+
+-- Which of these is not a climatic forcing for Earth?
+Options:
+1. changes in plate tectonics
+2. changes in Earth's orbit
+3. changes in the Moon's orbit
+4. change in the Sun's orbit
+;; changes in the Moon's orbit
+
+-- Which of these is not a principle of ecological restoration?
+Options:
+1. ecological integrity
+2. long-term sustainability
+3. benefits and engages scientists
+4. informed by past and future
+;; benefits and engages scientists
+
+-- "The ability of a system to adjust to climate change (including climate variability and extremes) to moderate potential damages, to take advantage of opportunities, or to cope with the consequences" is a definition for
+Options:
+1. adaptive response
+2. adaptive capacity
+3. mitigative response
+4. mitigative capacity
+;; adaptive capacity
+
+-- Which of these is not a principle of ecological restoration?
+Options:
+1. ecological integrity
+2. short-term sustainability
+3. benefits and engages society
+4. informed by past and future
+;; short-term sustainability
+
+-- Macrodebris in the context of plastic debris has fragments of size
+Options:
+1. >20mm
+2. 5-20mm
+3. <5mm
+4. <1mm
+;; >20mm
+
+-- Because of climate change, Mudumalai Tiger Reserve is suffering from frequent droughts. The management has built several artificial water holes for animals and fills them up regularly with tankers. In the context of climate change, such an action would be called
+Options:
+1. adaptation
+2. mitigation
+3. deceleration
+4. maladaptation
+;; adaptation
+
+-- "Any changes in natural and human systems that inadvertently increase vulnerability to climatic stimuli; an adaptation that does not succeed in reducing vulnerability but increases it instead" is a definition for
+Options:
+1. adaptation
+2. mitigation
+3. maladaptation
+4. malmitigation
+;; maladaptation
+
+-- Which of these is not a climatic forcing for Earth?
+Options:
+1. changes in plate tectonics
+2. changes in Earth's orbit
+3. changes in the Sun's orbit
+4. changes in the Sun's strength
+;; changes in the Sun's orbit
+
+-- A pest population is called uncontrolled when
+Options:
+1. it is increasing
+2. it is not decreasing
+3. it is causing some economic damage
+4. it is causing excessive economic damage
+;; it is causing excessive economic damage
+
+-- The impact of El Nino on fishery collapse in Peru is explained by
+Options:
+1. match hypothesis
+2. mismatch hypothesis
+3. match-mismatch hypothesis
+4. none of these
+;; match-mismatch hypothesis
+
+-- Which of these is correct
+Options:
+1. R + G = M + F
+2. R + M = G + F
+3. R + F + M + G
+4. R + G + M + F = 0
+;; R + G = M + F
+
+-- Ludwig's ratchet predicts
+Options:
+1. decreasing harvesting rate
+2. constant harvesting rate
+3. increasing harvesting rate
+4. fluctuating harvesting rate
+;; increasing harvesting rate
+
+-- A root zone treatment plant is an example of
+Options:
+1. phytoremediation
+2. biological control
+3. biomagnification
+4. bioaccumulation
+;; phytoremediation
+
+-- A pest population is called controlled when
+Options:
+1. it is increasing
+2. it is decreasing
+3. it is not causing any economic damage
+4. it is not causing excessive economic damage
+;; it is not causing excessive economic damage
+
+-- A deciduous forest in Madhya Pradesh was converted into a mine. After the mining operations were over, the pits were filled up with water and a lake was created. It is now visited by several migratory birds. This is an example of
+Options:
+1. recovery
+2. restoration
+3. enhancement
+4. replacement
+;; replacement
+
+-- A deciduous forest in Madhya Pradesh was converted into a mine. After the mining operations were over, the pits were filled up with soil and species of deciduous forest planted again. This is an example of
+Options:
+1. recovery
+2. restoration
+3. enhancement
+4. replacement
+;; restoration
+
+-- Which of these is not an impact of toxic chemicals
+Options:
+1. lethal effects
+2. sublethal effects
+3. reduction of existing stressors
+4. reduce fecundity
+;; reduction of existing stressors
+
+-- Which of these is correct
+Options:
+1. The maximum sustainable yield is near the beginning of the sigmoid curve
+2. The maximum sustainable yield is near the mid-point of the sigmoid curve
+3. The maximum sustainable yield is near the end of the sigmoid curve
+4. None of these
+;; The maximum sustainable yield is near the mid-point of the sigmoid curve
+
+-- Hierarchy emerges almost inevitably through a wide variety of evolutionary processes, for the simple reason that hierarchical structures are _____ (fill in the blank)
+Options:
+1. perfect
+2. imperfect
+3. stable
+4. unstable
+;; stable
+
+-- Which of these is a stochastic factor
+Options:
+1. birth rate
+2. death rate
+3. population structure
+4. environmental fluctuation
+;; environmental fluctuation
+
+-- The climax near Tindi village is being controlled by disturbance by cattle. This is an example of
+Options:
+1. climatic climax
+2. edaphic climax
+3. disclimax
+4. catastrophic climax
+;; disclimax
+
+-- _____ determines which projects or developments require a full or partial impact assessment study (fill in the blank)
+Options:
+1. screening
+2. scoping
+3. reporting
+4. review
+;; screening
+
+-- The movement of lions across the Gir landscape is an example of
+Options:
+1. diffusion
+2. secular dispersal
+3. jump dispersal
+4. drifting
+;; diffusion
+
+-- Trampling of grass due to the movement of animals is an example of
+Options:
+1. mutualism
+2. amensalism
+3. commensalism
+4. protocooperation
+;; amensalism
+
+-- Cover board surveys are typically used for sampling
+Options:
+1. herpetofauna
+2. fishes
+3. large mammals
+4. carnivores
+;; herpetofauna
+
+-- Glacial lakes are typical examples of
+Options:
+1. eutrophic lakes
+2. hypereutrophic lakes
+3. oligotrophic lakes
+4. mesotrophic lakes
+;; oligotrophic lakes
+
+-- Which of these is not a climatic forcing for Earth
+Options:
+1. change in plates tectonics
+2. change in Earth's orbit
+3. change in Sun's orbit
+4. change in Sun's strength
+;; change in Sun's orbit
+
+-- Which of these is not a characteristic of fitness
+Options:
+1. fitness is environmental specific
+2. fitness is species specific
+3. higher reproductive rate means higher fitness
+4. fitness should be measured across several generations
+;; higher reproductive rate means higher fitness
